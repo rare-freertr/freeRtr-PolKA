@@ -1,5 +1,5 @@
 # freeRtr-PolKA
-PolKA: Polynomial Key-based Architecture for Source Routing in Network Fabrics
+PolKA: Polynomial Key-based Architecture
 
 # Requirement
 Basic Linux/Unix knowledge
