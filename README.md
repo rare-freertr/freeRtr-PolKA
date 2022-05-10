@@ -9,7 +9,7 @@ Service provider networking knowledge
 # Overview
 FreeRouter is a free, open source router control plane software, freeRouter besides Ethernet, is able to handle HDLC, X25, frame-relay, ATM encapsulation. Since it handles packets itself at the socket layer, it is independent of underlying Operation System capabilities. The command line tries to mimic the industry standards with one exception:
 
-PolKA: Polynomial Key-based Architecture for Source Routing in Network Fabrics.
+PolKA: Polynomial Key-based Architecture.
 
 In order to be able to start a topology with PolKa. 
 
