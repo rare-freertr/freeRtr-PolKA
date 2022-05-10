@@ -382,6 +382,8 @@ In this article you:
 
 https://ieeexplore.ieee.org/document/9165501
 
+https://docs.freertr.org/guides/getting-started/007-polka/
+
 https://chalk-thought-7ce.notion.site/PolKA-Project-7452bbe9bd294a9b88791ba9650a7069
 
 https://wiki.geant.org/
